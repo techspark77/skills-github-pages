@@ -1,5 +1,6 @@
 ---
 title: ServiceNow | Authentication & Security | Integration
+date: Feb 17th, 2024
 ---
 
 Meet Seanfancy, a dedicated ServiceNow professional with a passion for technology, security, authentication, and integrations. With a keen interest in staying abreast of the latest advancements in the field, Seanfancy is committed to leveraging technology to enhance efficiency, streamline processes, and ensure robust security measures.
